@@ -1,0 +1,6 @@
+Anaconda3 Python 3.6.2
+Lightgbm 0.2
+Xgboost 0.6
+Pandas 0.20.3
+Numpy 1.12.1
+Sklearn 0.19.0
